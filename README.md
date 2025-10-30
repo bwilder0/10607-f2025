@@ -30,7 +30,7 @@ This course provides a place for students to practice the necessary computationa
 | 1    | Fri: Oct 24  | Recitation [[Problems]](/files/recitation1.pdf) [[Solutions]](/files/recitation1_solns.pdf) |[Homework 1](files/Homework1.pdf) due Sunday|
 | 2    | Mon: Oct 27  | Proof techniques: contradiction, contraposition [[Slides]](files/lecture_3.pptx) [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
 | 2    | Wed: Oct 29  | Proof techniques: induction [[Slides]](files/lecture_4.pptx) [[Reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf) |||
-| 2    | Fri: Oct 31  | [Recitation](files/Recitation_1Nov.pdf) |[Homework 2](files/F25_10607_HW2_Template.pdf) due Sunday|
+| 2    | Fri: Oct 31  | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf) |[Homework 2](files/F25_10607_HW2_Template.pdf) due Sunday|
 | 3    | Mon: Nov 3  | Computational complexity [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_complexity.pdf)||
 | 3    | Wed: Nov 5  | __Quiz 1__ + Computational complexity [[Slides]](files/lecture_6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf) [[Quiz 1 Practice Problems]](/files/quiz1_practice_problems.pdf) [[Solutions]](/files/quiz1_practice_problems_solns.pdf) | |
 | 3    | Fri: Nov 7  | [Recitation](files/Recitation_Computational_Complexity.pdf)| [Homework 3] due Sunday|
