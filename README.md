@@ -36,7 +36,7 @@ This course provides a place for students to practice the necessary computationa
 | 3    | Fri: Nov 7  | Recitation [[Problems]](/files/recitation3.pdf) [[Solutions]](/files/recitation3_solns.pdf) | [Homework 3](files/hw3.pdf) due Sunday|
 | 4    | Mon: Nov 10  | Algorithms: recursion [[Slides]](files/lecture_7.pptx) [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
 | 4    | Wed: Nov 12  | Algorithms: dynamic programming [[Slides]](files/lecture_8.pptx) [[Notes]](files/notes_dp.pdf)||
-| 4    | Fri: Nov 14  | Recitation|[Homework 4 Written](files/hw4.pdf) and [Homework 4 Programming](files/10607_f25_hw4.zip) due Sunday|
+| 4    | Fri: Nov 14  | Recitation [[Problems]](/files/recitation4.pdf) [[Solutions]](/files/recitation4_solns.pdf) |[Homework 4 Written](files/hw4.pdf) and [Homework 4 Programming](files/10607_f25_hw4.zip) due Sunday|
 | 5    | Mon: Nov 17  | Trees and lists [[Slides]](files/lecture_9.pptx) [[Reference (5.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch05.pdf ) [[Reference (6.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf)||
 | 5    | Wed: Nov 19  | __Quiz 2__ + Stacks and Queues [[Slides]](files/lecture_10.pptx)  [[Reference (6.6-8)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf) ||
 | 5    | Fri: Nov 21  | Recitation||
