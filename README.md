@@ -39,7 +39,7 @@ This course provides a place for students to practice the necessary computationa
 | 4    | Fri: Nov 14  | Recitation [[Problems]](/files/recitation4.pdf) [[Solutions]](/files/recitation4_solns.pdf) |[Homework 4 Written](files/hw4.pdf) and [Homework 4 Programming](files/10607_f25_hw4.zip) due Sunday|
 | 5    | Mon: Nov 17  | Trees and lists [[Slides]](files/lecture_9.pptx) [[Reference (5.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch05.pdf ) [[Reference (6.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf)||
 | 5    | Wed: Nov 19  | __Quiz 2__ + Stacks and Queues [[Slides]](files/lecture_10.pptx)  [[Reference (6.6-8)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf) [[Practice Problems]](/files/quiz2_practice_problems.pdf) [[Solutions]](/files/quiz2_practice_problems_solns.pdf) ||
-| 5    | Fri: Nov 21  | Recitation||
+| 5    | Fri: Nov 21  | Recitation [[Problems]](/files/recitation5.pdf) [[Solutions]](/files/recitation5_solns.pdf) ||
 | 6    | Mon: Nov 24  |Graphs [[Slides]](files/lecture_11.pptx) [[Reference (9.2-6)]](http://infolab.stanford.edu/~ullman/focs/ch09.pdf )  ||
 | 6    | Wed: Nov 26 | No class||
 | 6    | Fri: Nov 28  | No recitation|[Homework 5+6 due Sunday](files/hw_5-6.pdf)|
