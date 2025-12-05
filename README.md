@@ -45,4 +45,4 @@ This course provides a place for students to practice the necessary computationa
 | 6    | Fri: Nov 28  | No recitation|[Homework 5+6 due Sunday](files/hw_5-6.pdf)|
 | 7    | Mon: Dec 1  | Optimization  [[Slides]](files/lecture_12.pptx)    ||
 | 7    | Wed: Dec 3  | Optimization   [[Slides]](files/lecture_13.pptx) [[Notes on search]](files/notes_search.pdf)||
-| 7    | Fri: Dec 5  | __Quiz 3__ [[Practice Problems]](/files/quiz3_practice_problems.pdf) [[Solutions]](/files/quiz3_practice_problems_solns.pdf) |[Homework 7](files/hw7.pdf) due Sunday|
+| 7    | Fri: Dec 5  | __Quiz 3__ [[Practice Problems]](/files/quiz3_practice_problems.pdf) [[Solutions]](/files/quiz3_practice_problems_solns.pdf) |[Homework 7](files/hw7.pdf) and [Homework 7 Programming](files/10607_f25_hw7.zip) due Sunday|
